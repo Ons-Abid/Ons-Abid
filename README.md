@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=153D32&center=true&vCenter=true&width=940&lines=Ons+Abid;Full+Stack+%26+AI+Engineer;Applied+AI+%26+Software+Engineering" alt="Ons Abid — Full Stack and AI Engineer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=1800&color=E9765B&center=true&vCenter=true&width=940&lines=Ons+Abid;Full+Stack+%26+AI+Engineer;Applied+AI+%26+Software+Engineering" alt="Ons Abid — Full Stack and AI Engineer" />
 
   <h3>Full Stack &amp; AI Engineer | Computer Science Engineer | Sfax, Tunisia</h3>
 
@@ -13,7 +13,7 @@
   </p>
 
   <p>
-    <img src="https://komarev.com/ghpvc/?username=Ons-Abid&label=Profile%20Views&color=153d32&style=for-the-badge" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ons-abid&label=Profile%20Views&color=153d32&style=for-the-badge&cache=2" alt="Profile views" />
     <img src="https://img.shields.io/github/followers/Ons-Abid?label=Followers&style=for-the-badge&color=d4f374&labelColor=153d32" alt="GitHub followers" />
     <img src="https://img.shields.io/github/stars/Ons-Abid?label=Stars&style=for-the-badge&color=e9765b&labelColor=153d32" alt="GitHub stars" />
   </p>
